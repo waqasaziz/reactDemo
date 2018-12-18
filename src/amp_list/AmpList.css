@@ -1,0 +1,40 @@
+table.amp-list{
+  width: 100%;
+}
+
+.amp-list tr td{
+  cursor: pointer;
+}
+
+.amp-list tr td{
+  border-bottom: 2px solid white;
+}
+
+.type{
+  width: 16px;
+}
+.reference{
+  width: 50px;
+  padding: 0 1rem;
+  text-align: center;
+  vertical-align: top;
+}
+.description{
+  text-align: center;
+}
+  
+.minor{
+  background: green;
+}
+
+.major{
+  background: orange;
+}
+
+.critical{
+  background: red;
+}
+
+.blocker{
+  background: black;
+}
